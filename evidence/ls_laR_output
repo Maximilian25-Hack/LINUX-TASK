@@ -1,0 +1,28 @@
+/home/agent007/mission:
+total 16
+drwxrwxr-x 4 agent007 agent007 4096 Oct 11 06:23 .
+drwx------ 6 agent007 agent007 4096 Oct 11 07:26 ..
+drwxrwxr-x 2 agent007 agent007 4096 Oct 11 07:15 intel
+drwxrwxr-x 3 agent007 agent007 4096 Oct 11 06:24 ops
+
+/home/agent007/mission/intel:
+total 20
+drwxrwxr-x 2 agent007 agent007 4096 Oct 11 07:15 .
+drwxrwxr-x 4 agent007 agent007 4096 Oct 11 06:23 ..
+-rw-rw-r-- 1 agent007 agent007   45 Oct 11 06:35 listing1.txt
+-rw-rw-r-- 1 agent007 agent007  301 Oct 11 06:36 listing2.txt
+-rw-rw-r-- 1 agent007 agent007  477 Oct 11 06:36 listing3.txt
+-rw-rw-r-- 1 agent007 agent007    0 Oct 11 06:33 routes.txt
+-rw-r----- 1 root     agent007    0 Oct 11 06:33 targets.txt
+
+/home/agent007/mission/ops:
+total 12
+drwxrwxr-x 3 agent007 agent007 4096 Oct 11 06:24 .
+drwxrwxr-x 4 agent007 agent007 4096 Oct 11 06:23 ..
+drwxrwxr-x 2 agent007 agent007 4096 Oct 11 07:03 Backups
+
+/home/agent007/mission/ops/Backups:
+total 8
+drwxrwxr-x 2 agent007 agent007 4096 Oct 11 07:03 .
+drwxrwxr-x 3 agent007 agent007 4096 Oct 11 06:24 ..
+-rw-rw-r-- 1 agent007 agent007    0 Oct 11 07:03 routes.txt

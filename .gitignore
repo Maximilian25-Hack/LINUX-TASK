@@ -1,0 +1,17 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary/editor files
+*.log
+*.tmp
+*.swp
+*~
+
+# Python/cache artifacts, if local tooling is used
+__pycache__/
+.pytest_cache/
+
+# Do not ignore evidence or submission placeholders required by this lab.

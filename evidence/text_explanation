@@ -1,0 +1,3 @@
+* **`chmod`** changes the access permissions (read, write, and execute) of files and directories for owners, groups, and others.
+* **`ls -l`** lists directory contents in a detailed long format, displaying permissions, owner details, file sizes, and timestamps.
+* **`useradd`** is an administrative command used to create a brand new user account on Unix-like operating systems.
